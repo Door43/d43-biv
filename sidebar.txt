@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[biv:home|Door43 (biv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-biv|d43-biv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-biv/archive/master.zip|d43-biv.zip]]
+
+**Recent Changes**
+{{changes>ns = biv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/biv|Ethnologue data]]
+
